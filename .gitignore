@@ -1,0 +1,15 @@
+# Ambientes Virtuais e Chaves
+.env
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
